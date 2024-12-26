@@ -1,6 +1,30 @@
+# Landing Page - Adoção de Animais 🐾
 
-# Landing Page
+## 📋 Sobre o Projeto
+Site desenvolvido para praticar e aprimorar conhecimentos em desenvolvimento web, focado na causa animal.
 
-Criei um site sobre adoção de animais, pra aprimorar meu conhecimentos e estudos.
-Nele contém uma barra de navegação que levam o usuario a outras páginas, e uma galeria onde apliquei flexbox, 
-na página de contato adicionei um breve formulário. E por fim um rodapé.
+## 🚀 Tecnologias Utilizadas
+- HTML5
+- CSS3
+- JavaScript
+- Flexbox
+- Responsividade
+
+## 📌 Funcionalidades
+- Barra de navegação interativa
+- Galeria de imagens responsiva com Flexbox
+- Formulário de contato
+- Footer com informações adicionais
+
+## 🔧 Instalação
+1. Clone o repositório
+```bash
+git clone [url-do-seu-repositorio]
+```
+2. Abra o arquivo index.html no seu navegador
+
+## 📸 Video
+
+
+## 👨‍💻 Autor
+Regiane Cabral 🩷
