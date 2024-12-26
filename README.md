@@ -24,6 +24,7 @@ git clone [url-do-seu-repositorio]
 2. Abra o arquivo index.html no seu navegador
 
 ## 📸 Video
+https://github.com/user-attachments/assets/fd2057b7-e7ff-4bd3-866e-f67b33727373
 
 
 ## 👨‍💻 Autor
